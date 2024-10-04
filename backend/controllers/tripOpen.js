@@ -117,7 +117,6 @@ const tripDetails = async (req, res) => {
         lastSpeed = speed;
         currentIgnitionStatus = start.ignition;
       }
-      console.log(trip.trip_name);
       return {
         trip_name: trip.trip_name,
         source: {

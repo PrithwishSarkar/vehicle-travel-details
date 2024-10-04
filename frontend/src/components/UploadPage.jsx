@@ -67,8 +67,6 @@ const UploadPage = () => {
       }
 
       const result = await response.json();
-
-      console.log(result);
       setData(result);
 
       sessionStorage.setItem("uploadedData", JSON.stringify(result));

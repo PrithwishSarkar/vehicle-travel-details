@@ -68,7 +68,6 @@ export default function TableComponent({ data, updateData }) {
         setSelectAllChecked(false);
       }
       updateData(result || []);
-      console.log(result);
     } catch (error) {
       console.error("Error deleting trips:", error);
     }

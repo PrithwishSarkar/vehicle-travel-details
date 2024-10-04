@@ -16,7 +16,6 @@ const formatCoordinate = (lat, lon) => {
   coord += lat >= 0 ? "° N, " : "° S, ";
   coord += `${Math.abs(lon).toFixed(4)}`;
   coord += lon >= 0 ? "° E" : "° W";
-  console.log(coord);
   return coord;
 };
 
