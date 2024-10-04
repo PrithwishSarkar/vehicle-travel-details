@@ -1,15 +1,15 @@
 # Vehicle Travel Details
  
-![Application screenshot](./public/images/Img01.png)
+![Application screenshot](frontend/public/images/Img01.png)
 <br/>
 
-![Application screenshot](./public/images/Img02.png)
+![Application screenshot](frontend/public/images/Img02.png)
 <br/>
 
-![Application screenshot](./public/images/Img03.png)
+![Application screenshot](frontend/public/images/Img03.png)
 <br/>
 
-![Application screenshot](./public/images/Img04.png)
+![Application screenshot](frontend/public/images/Img04.png)
 <br/>
 
 <br/>
